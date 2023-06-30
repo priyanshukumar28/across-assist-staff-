@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">staff_attendance_tracking_across_assist</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="msg_login_to_your_a">Login to your account</string>
+<string name="lbl_date">Date</string>
+<string name="lbl_thank_you">Thank You</string>
+<string name="lbl_employee_id">Employee ID</string>
+<string name="msg_please_click_yo">Please Click Your Photo</string>
+<string name="msg_don_t_have_an_a">Don\u2019t have an account?</string>
+<string name="lbl_time">Time</string>
+<string name="lbl_password">Password</string>
+<string name="msg_employees_atten">Employees Attendance App</string>
+<string name="lbl_hour_minutes">Hour Minutes</string>
+<string name="lbl_capture_image">Capture Image</string>
+<string name="msg_please_contact">Please contact the admin</string>
+<string name="msg_please_fill_all">Please fill all the necessary details here to mark your attendance.</string>
+<string name="msg_your_attendance">Your attendance has been marked present.
+We hope you have a good day.</string>
+<string name="lbl_submit">Submit</string>
+<string name="lbl_geolocation">Geolocation</string>
+<string name="lbl_remember_me">Remember Me</string>
+<string name="lbl_log_in">Log in</string>
+<string name="msg_attendance_wind">Attendance Window</string>
+<string name="lbl_check_in">Check In</string>
+<string name="msg_please_enter_valid_pa">Please enter valid password</string>
+<string name="msg_please_enter_valid_text">Please enter valid text</string>
+<string name="msg_ops_we_en_an_er_pl_try_again_in_few_mi">Ops ! We encountered an error. Please try again in few minutes.</string>
+</resources>
